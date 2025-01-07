@@ -1,5 +1,6 @@
 # AtliQ-Bussiness-Insights
-#PROJECT OVERVIEW
+
+**PROJECT OVERVIEW**
 
 This project aims to streamline and optimize various aspects of AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
@@ -7,73 +8,73 @@ Live Dashboard Link:https://tinyurl.com/28vn94uw
 
 **Finance View**
 
-Objectives
+**Objectives**
 
 Improve financial planning and budgeting processes.
 
 Enhance cost control and expense management.
 
-Key Achievements
+**Key Achievements**
 
 Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 
 Created benchmarking against last year and target goals for budgeting.
 
-Sales View
+**Sales View**
 
-Objectives
+**Objectives**
 
 Increase sales revenue and market share.
 
 Enhance customer relationship management.
 
-Key Achievements
+**Key Achievements**
 
 Created customer and product overall sales performance report and unit economics.
 
 Identified sales trends and track KPIs
 
-Supply Chain View
+**Supply Chain View**
 
-Objectives
+**Objectives**
 
 Optimize inventory management and reduce lead times.
 
 Enhance supplier relationships for cost savings.
 
-Key Achievements
+**Key Achievements**
 
 1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
 
-Executive View
+**Executive View**
 
-Objectives
+**Objectives**
 
 Provide an overview of the entire organization's performance.
 
 Enable data-driven decision-making for top management.
 
-Key Achievements
+**Key Achievements**
 
 Developed an executive dashboard for real-time performance monitoring.
 
 Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
 
-Marketing View
+**Marketing View**
 
-Objectives
+**Objectives**
 
 Increase brand visibility and customer engagement.
 
 Implement data-driven marketing strategies.
 
-Key Achievements
+**Key Achievements**
 
 Created region and product wise overall market performance report and unit economics.
 
 Identified market trends and track KPIs
 
-Skills
+**Skills**
 
 Learnt Power BI fundamentals
 
@@ -104,7 +105,7 @@ Dax studio( TO REDUCE FILE SIZE)
 
 Project Charter file
 
-Business Related Terms
+**Business Related Terms**
 
 Gross Margin,Gross Margin %
 
@@ -124,7 +125,7 @@ YTD ( year to date)
 
 Direct ,retailer, consumer and distributors
 
-Soft Skills
+**Soft Skills**
 
 Stakeholders mapping analysis
 
@@ -132,7 +133,7 @@ Effective communication with stakeholders feedback and management
 
 Business and domain knowledge in sales,finance,marketing and supply chain.
 
-Conclusion
+**Conclusion**
 
 This dashboard answers many business questions based on different scenerio.
 
