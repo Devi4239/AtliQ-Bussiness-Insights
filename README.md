@@ -3,9 +3,9 @@
 
 This project aims to streamline and optimize various aspects of AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
-#Live Dashboard Link:https://tinyurl.com/28vn94uw
+Live Dashboard Link:https://tinyurl.com/28vn94uw
 
-https://github.com/Devi4239/AtliQ-Bussiness-Insights/blob/main/README.md#:~:text=tinyurl.com/28vn94uw-,Finance%20View,-ObjectivesFinance View
+Finance View
 
 Objectives
 
