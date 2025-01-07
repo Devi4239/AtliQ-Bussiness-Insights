@@ -5,7 +5,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 
 #Live Dashboard Link:https://tinyurl.com/28vn94uw
 
-Finance View
+https://github.com/Devi4239/AtliQ-Bussiness-Insights/blob/main/README.md#:~:text=tinyurl.com/28vn94uw-,Finance%20View,-ObjectivesFinance View
 
 Objectives
 
