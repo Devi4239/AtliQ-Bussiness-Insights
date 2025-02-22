@@ -1,12 +1,12 @@
 # AtliQ-Bussiness-Insights
 
-**PROJECT OVERVIEW**
+## PROJECT OVERVIEW**
 
 This project aims to streamline and optimize various aspects of AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
 Live Dashboard Link:https://tinyurl.com/28vn94uw
 
-**Finance View**
+## Finance View
 
 **Objectives**
 
@@ -20,7 +20,7 @@ Implemented a robust financial forecasting model, resulting in more accurate bud
 
 Created benchmarking against last year and target goals for budgeting.
 
-**Sales View**
+## Sales View
 
 **Objectives**
 
@@ -34,7 +34,7 @@ Created customer and product overall sales performance report and unit economics
 
 Identified sales trends and track KPIs
 
-**Supply Chain View**
+## Supply Chain View**
 
 **Objectives**
 
@@ -60,7 +60,7 @@ Developed an executive dashboard for real-time performance monitoring.
 
 Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
 
-**Marketing View**
+## Marketing View
 
 **Objectives**
 
@@ -74,7 +74,7 @@ Created region and product wise overall market performance report and unit econo
 
 Identified market trends and track KPIs
 
-**Skills**
+## Skills
 
 Learnt Power BI fundamentals
 
@@ -105,7 +105,7 @@ Dax studio( TO REDUCE FILE SIZE)
 
 Project Charter file
 
-**Business Related Terms**
+## Business Related Terms
 
 Gross Margin,Gross Margin %
 
@@ -125,7 +125,7 @@ YTD ( year to date)
 
 Direct ,retailer, consumer and distributors
 
-**Soft Skills**
+## Soft Skills
 
 Stakeholders mapping analysis
 
