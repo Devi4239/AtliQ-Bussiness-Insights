@@ -1,6 +1,6 @@
 # AtliQ-Bussiness-Insights
 
-## PROJECT OVERVIEW**
+## PROJECT OVERVIEW
 
 This project aims to streamline and optimize various aspects of AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
@@ -34,7 +34,7 @@ Created customer and product overall sales performance report and unit economics
 
 Identified sales trends and track KPIs
 
-## Supply Chain View**
+## Supply Chain View
 
 **Objectives**
 
@@ -46,7 +46,7 @@ Enhance supplier relationships for cost savings.
 
 1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
 
-**Executive View**
+## Executive View
 
 **Objectives**
 
